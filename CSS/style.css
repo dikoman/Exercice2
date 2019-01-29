@@ -24,6 +24,7 @@ body {
         grid-area: footer;
         background-color: orangered !important;
         font-size: 3em !important;
+        border: 6px solid green;
     }
 
     .wrapper {
