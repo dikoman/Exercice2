@@ -17,6 +17,7 @@ body {
     .header {
         grid-area: header;
         background-color: orangered !important;
+        color: darkred !important;
     }
 
     .footer {
