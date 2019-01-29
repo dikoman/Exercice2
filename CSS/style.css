@@ -25,6 +25,7 @@ body {
         background-color: orangered !important;
         font-size: 3em !important;
         border: 6px solid green;
+        color: blueviolet !important;
     }
 
     .wrapper {
